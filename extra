@@ -1,0 +1,14 @@
+Спецификация ECMA-262
+https://www.ecma-international.org/publications/standards/Ecma-262.htm
+MDN
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference
+MSDN
+http://msdn.microsoft.com/.
+
+обычно пользуются так: в гугле набирают  "mdn/msdn regExp js"
+//что можно использовать в браузерах
+//в поисковую строку можно вбить например Web Cryptography
+http://caniuse.com
+
+https://kangax.github.io/compat-table – таблица с возможностями
+языка и движками, которые их поддерживают и не поддерживают.
