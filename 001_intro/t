@@ -4,10 +4,7 @@
 Движок JavaScript — специализированная программа,
 обрабатывающая JavaScript, в частности, в браузерах.
 
-A JavaScript engine is a computer program
- that executes JavaScript (JS) code.
-
- A JavaScript engine is a computer program that executes JavaScript (JS)
+ц A JavaScript engine is a computer program that executes JavaScript (JS)
   code. The first JavaScript engines were mere
   interpreters, but all relevant modern
  engines utilize just-in-time compilation for improved performance.[1]

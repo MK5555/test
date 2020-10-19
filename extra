@@ -12,3 +12,55 @@ http://caniuse.com
 
 https://kangax.github.io/compat-table – таблица с возможностями
 языка и движками, которые их поддерживают и не поддерживают.
+//гайд по инструментам разработчика в хроме
+https://developers.google.com/web/tools/chrome-devtools.
+
+//линтеры для js
+npm install -g eslint
+https://learn.javascript.ru/coding-style#avtomatizirovannye-sredstva-proverki-lintery
+
+//генерация отчетов в html
+JSDoc вы можете здесь: http://usejsdoc.org/
+
+//автоматическое тестирование
+https://learn.javascript.ru/testing-mocha
+
+//tdd
+https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+//bdd
+https://ru.wikipedia.org/wiki/BDD_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+//узнать про
+webpack или brunch,
+
+//сборка мусора
+http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection
+//полезные ссылки по языку
+https://mrale.ph/
+//блог движка в8
+https://v8.dev/blog
+//библиотекчные символы
+https://tc39.es/ecma262/#sec-well-known-symbols
+
+ООП является большой предметной областью и
+ интересной наукой само по себе. Как выбрать правильные
+ сущности? Как организовать взаимодействие между ними?
+  Это – создание архитектуры, и есть хорошие книги по этой
+   теме, такие как «Приёмы объектно-ориентированного
+   проектирования. Паттерны проектирования» авторов
+   Эрих Гамма, Ричард Хелм, Ральф Джонсон, Джон Влиссидес или
+    «Объектно-ориентированный анализ и проектирование с
+     примерами приложений»
+Гради Буча, а также ещё множество других книг.
+//reference type
+https://tc39.es/ecma262/#sec-reference-specification-type
+
+//полезные ссылки для работы со строками
+//https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String
+
+//почитать про дек
+https://en.wikipedia.org/wiki/Double-ended_queue
+//функции массивов
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+узнать про Бесконечные итераторы
+

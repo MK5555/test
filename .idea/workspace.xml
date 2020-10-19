@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bfbf960-a4d7-4d05-961f-8108661645a8" name="Default Changelist" comment="" />
+    <list default="true" id="6bfbf960-a4d7-4d05-961f-8108661645a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/002_basic/alert_promt_confirm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_basic/function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_basic/functions_arrows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_basic/if_and_logic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_basic/typeConversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_basic/while_for.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_code_quality/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_code_quality/debugger_using" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_code_quality/t" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_object_basic/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_object_basic/garbage_collector" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_object_basic/ladder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_object_basic/objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_object_basic/symbol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_object_basic/testID.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/js_start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/js_start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_intro/hello_world/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/001_intro/hello_world/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_intro/hello_world/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/001_intro/hello_world/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_intro/t" beforeDir="false" afterPath="$PROJECT_DIR$/001_intro/t" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_basic/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/002_basic/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_basic/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/002_basic/2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_basic/t" beforeDir="false" afterPath="$PROJECT_DIR$/002_basic/t" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra" beforeDir="false" afterPath="$PROJECT_DIR$/extra" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,17 +49,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hwZQ8CdZoAzLuM0cijZP9UYQFt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -39,21 +80,68 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600924095785</updated>
-      <workItem from="1600924096882" duration="7275000" />
+      <workItem from="1600924096882" duration="8239000" />
+      <workItem from="1600948263283" duration="1424000" />
+      <workItem from="1601023798035" duration="4050000" />
+      <workItem from="1601043154650" duration="605000" />
+      <workItem from="1601270208217" duration="2373000" />
+      <workItem from="1601273486033" duration="2430000" />
+      <workItem from="1601292536993" duration="2427000" />
+      <workItem from="1601356011969" duration="6187000" />
+      <workItem from="1601386067580" duration="3535000" />
+      <workItem from="1601442210211" duration="6964000" />
+      <workItem from="1601472132254" duration="3611000" />
+      <workItem from="1601528604158" duration="6609000" />
+      <workItem from="1601630651206" duration="604000" />
+      <workItem from="1601639591277" duration="8792000" />
+      <workItem from="1601974461198" duration="3000" />
+      <workItem from="1602225430233" duration="6411000" />
+      <workItem from="1602481635641" duration="4688000" />
+      <workItem from="1602655561376" duration="8555000" />
+      <workItem from="1602669482847" duration="8561000" />
+      <workItem from="1602741441430" duration="18466000" />
+      <workItem from="1603087513893" duration="15000" />
+      <workItem from="1603089450885" duration="64000" />
+      <workItem from="1603090015400" duration="15000" />
+      <workItem from="1603090121721" duration="3934000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="355" width="566" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600927994011">
+    <state x="241" y="355" width="654" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601532147078">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="241" y="355" width="566" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1600927994011" />
+    <state x="241" y="355" width="654" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1601532147078" />
+    <state x="260" y="391" width="518" height="332" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1603089484654">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="260" y="391" width="518" height="332" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1603089484654" />
     <state x="72" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1600930086760">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="72" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1600930086760" />
+    <state x="198" y="252" key="run.anything.popup" timestamp="1602753918947">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="198" y="252" key="run.anything.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1602753918947" />
+    <state x="192" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1602675908190">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="192" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1602675908190" />
   </component>
 </project>
