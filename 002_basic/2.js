@@ -5,7 +5,7 @@ let message;
 message = "hello";
 //const
 //есть константы которе вычисляются во время выполения
-//const = pageLoadTime = например
+//const = pageLoadTime() например
 const pi = 3.1416
 console.log(message)
 console.log(pi)
